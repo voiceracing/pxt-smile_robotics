@@ -1,0 +1,15 @@
+{
+    "name": "smile_robotics",
+    "version": "0.0.1",
+    "description": "SMILE ROBOTICS with micro:bit",
+    "license": "SMILE ROBOTICS",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/smile_robotics-strings.json"
+    ],
+    "public": true
+}
